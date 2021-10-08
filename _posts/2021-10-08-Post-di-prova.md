@@ -1,6 +1,6 @@
 ---
- title : " Benvenuto nel mio blog "
- data : 2021-10-08 
+title: "Benvenuto nel mio blog"
+date: 2021-10-08 
 ---
 
 ### h3 di prova
